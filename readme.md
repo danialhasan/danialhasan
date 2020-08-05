@@ -4,10 +4,9 @@
 
 ## Skills
 
-[html]
+ ![HTML Logo](https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png)
 
 - CSS
 - Javascript
   - Vue
 
-[html] : https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png "HTML"
