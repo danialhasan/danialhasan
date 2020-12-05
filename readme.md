@@ -1,10 +1,9 @@
 ### [DEVELOPER, STUDENT]
 
-# I'm Danial, a web developer/designer.
+# I'm a web developer/designer.
 
-## Skills
+## Preferred Languages
 
-- CSS
 - Javascript
   - Vue
-
+- HTML/CSS
