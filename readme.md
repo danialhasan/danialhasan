@@ -1,6 +1,23 @@
 # Hey there 👋
-My name is Danial and I'm a full stack web developer. Right now I'm building things with the **MEVN** web stack.
+### I'm Danial, a junior full stack web developer. 
 
-I have a personal website, alongside some popular repos I like to show off. 
+I like to build cool side projects and learn about new technologies.
 
-\[this readme.md is a work in progress as I build some more cool stuff]
+#### Projects
+[CryptoAPI](https://cryptoapi.xyz) | [SOURCE CODE](https://github.com/danialhasan/CryptoAPI)<br>
+This is a small application I build to apply my knowledge of APIs. It retrieves real data from [this api](https://coinmarketcap.com/api) and displays it for the user. It is functional, but I plan to revamp it in the near future with more features and better styling.
+<br>
+_Technologies Used_
+- NodeJS
+- ExpressJS
+- [Coin Market Cap API](https://coinmarketcap.com/api)
+- TailwindCSS
+<br>
+<br>
+[HWAY Global](https://hwayglobal.com/)<br>
+This is a static website I built for a clients business back when I was still learning web development for the first time.
+<br>
+_Technologies Used_
+- HTML
+- CSS
+- Javascript
