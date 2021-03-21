@@ -21,8 +21,12 @@ _Technologies Used_
 - HTML
 - CSS
 - Javascript
+<br>
+
 <hr>
-### Current Project
+<br>
+
+### Current Project <br>
 [Crypto Address Tracer](https://github.com/danialhasan/crypto_address_tracer)<br>
 This web app uses the [Ethplorer API](https://ethplorer.io/) to look up any given address on the Ethereum network. It returns info such as balance, ENS id, hex address, and collection/token holdings. <br><br>
 _Technologies Used_
