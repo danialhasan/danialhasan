@@ -13,6 +13,8 @@ _Technologies Used_
 - [Coin Market Cap API](https://coinmarketcap.com/api)
 - TailwindCSS
 <br>
+Hosted on Heroku.
+<br>
 
 [HWAY Global](https://hwayglobal.com/)<br>
 This is a static website I built for a clients business back when I was still learning web development for the first time.
@@ -22,7 +24,7 @@ _Technologies Used_
 - CSS
 - Javascript
 <br>
-
+Hosted on IONOS.
 <hr>
 <br>
 
