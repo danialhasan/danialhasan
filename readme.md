@@ -12,9 +12,9 @@ _Technologies Used_
 - ExpressJS
 - [Coin Market Cap API](https://coinmarketcap.com/api)
 - TailwindCSS
-<br>
-Hosted on Heroku.
-<br>
+
+Hosted on Heroku. <br>
+
 
 [HWAY Global](https://hwayglobal.com/)<br>
 This is a static website I built for a clients business back when I was still learning web development for the first time.
@@ -26,7 +26,6 @@ _Technologies Used_
 <br>
 Hosted on IONOS.
 <hr>
-<br>
 
 ### Current Project (Work In Progress) <br>
 [Crypto Address Tracer](https://github.com/danialhasan/crypto_address_tracer)<br>
@@ -38,3 +37,15 @@ _Technologies Used_
 - TailwindCSS
 <br>
 Hosted on Heroku.
+
+### Next Project (Idea) <br>
+My next project will be full stack fully functional ecommerce store with paypal/stripe payment integration. I have already experimented with the Stripe API and its demos.
+<br><br>
+_Technologies Used_
+- NodeJS
+- ExpressJS
+- MongoDB
+- VueJS
+- TailwindCSS
+<br>
+It will be hosted on Heroku.
