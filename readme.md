@@ -3,6 +3,13 @@
 
 I like to build cool side projects and learn about new technologies.
 
+### Skills
+- NodeJS
+- Javascript
+- MongoDB
+- TailwindCSS
+- Solidity _(Junior, still learning!)_
+
 ### Projects
 [CryptoAPI](https://cryptoapi.xyz) | [SOURCE CODE](https://github.com/danialhasan/CryptoAPI)<br>
 This is a small application I build to apply my knowledge of APIs. It retrieves real data from [this api](https://coinmarketcap.com/api) and displays it for the user. It is functional, but I plan to revamp it in the near future with more features and better styling.
