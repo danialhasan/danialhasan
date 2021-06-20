@@ -32,9 +32,8 @@ _Technologies Used_
 - Javascript
 <br>
 Hosted on IONOS.
-<hr>
 
-### Current Project (Work In Progress) <br>
+
 [Crypto Address Tracer](https://github.com/danialhasan/crypto_address_tracer)<br>
 This web app uses the [Ethplorer API](https://ethplorer.io/) to look up any given address on the Ethereum network. It returns info such as balance, ENS id, hex address, and collection/token holdings. <br><br>
 _Technologies Used_
@@ -44,9 +43,10 @@ _Technologies Used_
 - TailwindCSS
 <br>
 Hosted on Heroku.
+<hr>
 
-### Next Project (Idea) <br>
-My next project will be full stack fully functional ecommerce store with paypal/stripe payment integration. I have already experimented with the Stripe API and its demos.
+### Current Project (Work In Progress) <br>
+This project is a web app where users can login/register to browse collections of images. It's similar to [Unsplash](https://unsplash.com) and [Instagram](https://instagram.com) in functionality. It is completely custom built.
 <br><br>
 _Technologies Used_
 - NodeJS
@@ -55,4 +55,4 @@ _Technologies Used_
 - VueJS
 - TailwindCSS
 <br>
-It will be hosted on Heroku.
+It's split into two parts, Client and Server. The client holds the frontend code and is hosted on Netlify. The server hosts the backend code and is hosted on Heroku. They communicate via API.
