@@ -1,5 +1,5 @@
 # Hey there 👋
-### I'm Danial, a junior full stack web developer. 
+### I'm Danial, a full stack Javascript web developer. 
 
 I like to build cool side projects and learn about new technologies.
 
