@@ -8,7 +8,8 @@ I like to build cool side projects and learn about new technologies.
 - Javascript
 - MongoDB
 - TailwindCSS
-- Solidity _(Junior, still learning!)_
+- Solidity _(Still learning!)_
+- Clarity _(Still learning!)_
 
 ### Projects
 [CryptoAPI](https://cryptoapi.xyz) | [SOURCE CODE](https://github.com/danialhasan/CryptoAPI)<br>
