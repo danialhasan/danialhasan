@@ -4,14 +4,30 @@
 I like to build cool side projects and learn about new technologies.
 
 ### Skills
-- NodeJS
-- Javascript
+- Node.js
+- Express.js
+- Vue.js
 - MongoDB
 - TailwindCSS
 - Solidity _(Still learning!)_
 - Clarity _(Still learning!)_
 
 ### Projects
+[Unsplash Clone](https://unsplash-clone-dh.netlify.app/) | [SOURCE CODE](https://github.com/danialhasan/Unsplash_Clone)<br>
+This web app is a mix of Unsplash and Instagram. Users can log on and submit photos to the app, where an AI trained with machine-learning processes the image and returns the contents of an image. For example, users can submit photos of a dog and the AI will respond with "dog/pet/animal". I built this app to integrate concepts such as JWT Auth, State Management, Routing, and cools APIs like Rekognition and S3 into one app. It's in the MVP stage right now, but is fully functional.
+<br><br>
+_Technologies Used_
+- Vue.js
+  - Vue Router
+  - VueX 
+- TailwindCSS
+- AWS APIs ([S3](https://docs.aws.amazon.com/AmazonS3/latest/API/Welcome.html), [Rekognition](https://docs.aws.amazon.com/rekognition/latest/dg/API_Reference.html))
+- Node.js
+- ExpressJS
+- MongoDB
+
+Backend hosted on Heroku, frontend hosted on Netlify. <br>
+
 [CryptoAPI](https://cryptoapi.xyz) | [SOURCE CODE](https://github.com/danialhasan/CryptoAPI)<br>
 This is a small application I build to apply my knowledge of APIs. It retrieves real data from [this api](https://coinmarketcap.com/api) and displays it for the user. It is functional, but I plan to revamp it in the near future with more features and better styling.
 <br><br>
@@ -45,15 +61,3 @@ _Technologies Used_
 <br>
 Hosted on Heroku.
 <hr>
-
-### Current Project (Work In Progress) <br>
-This project is a web app where users can login/register to browse collections of images. It's similar to [Unsplash](https://unsplash.com) and [Instagram](https://instagram.com) in functionality. It is completely custom built.
-<br><br>
-_Technologies Used_
-- NodeJS
-- ExpressJS
-- MongoDB
-- VueJS
-- TailwindCSS
-<br>
-It's split into two parts, Client and Server. The client holds the frontend code and is hosted on Netlify. The server hosts the backend code and is hosted on Heroku. They communicate via API.
