@@ -7,7 +7,7 @@ I like to build cool side projects and learn about new technologies.
 - Node.js
 - Express.js
 - Vue.js
-- MongoDB
+- MongoDB, DynamoDB, AWS S3
 - TailwindCSS
 - Solidity _(Still learning!)_
 - Clarity _(Still learning!)_
