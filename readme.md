@@ -9,8 +9,8 @@ I like to build cool side projects and learn about new technologies.
 - Vue.js
 - MongoDB, DynamoDB, AWS S3
 - TailwindCSS
-- Solidity _(Still learning!)_
-- Clarity _(Still learning!)_
+- Solidity
+- Clarity
 
 ### Projects
 [Unsplash Clone](https://unsplash-clone-dh.netlify.app/) | [SOURCE CODE](https://github.com/danialhasan/Unsplash_Clone)<br>
