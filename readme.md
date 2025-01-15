@@ -1,63 +1,52 @@
-# Hey there 👋
-### I'm Danial, a full stack Javascript web developer. 
+# Welcome 👋
 
-I like to build cool side projects and learn about new technologies.
+### I'm Danial Hasan, an applied AI/ML and software engineering specialist focused on driving impactful business outcomes.
+
+I build cutting-edge AI-powered solutions that tackle real-world problems, with expertise spanning applied machine learning, AI agents, and full-stack development. My work bridges the gap between technology and business, creating tools that deliver measurable value.
 
 ### Skills
-- Node.js
-- Express.js
-- Vue.js
-- MongoDB, DynamoDB, AWS S3
-- TailwindCSS
-- Solidity
-- Clarity
 
-### Projects
-[Unsplash Clone](https://unsplash-clone-dh.netlify.app/) | [SOURCE CODE](https://github.com/danialhasan/Unsplash_Clone)<br>
-This web app is a mix of Unsplash and Instagram. Users can log on and submit photos to the app, where an AI trained with machine-learning processes the image and returns the contents of an image. For example, users can submit photos of a dog and the AI will respond with "dog/pet/animal". I built this app to integrate concepts such as JWT Auth, State Management, Routing, and cools APIs like Rekognition and S3 into one app. It's in the MVP stage right now, but is fully functional.
-<br><br>
-_Technologies Used_
-- Vue.js
-  - Vue Router
-  - VueX 
-- TailwindCSS
-- AWS APIs ([S3](https://docs.aws.amazon.com/AmazonS3/latest/API/Welcome.html), [Rekognition](https://docs.aws.amazon.com/rekognition/latest/dg/API_Reference.html))
-- Node.js
-- ExpressJS
-- MongoDB
+- **Applied AI/ML**: Retrieval-Augmented Generation (RAG), vectorization, fine-tuning models, chunk re-ranking
+- **Agent Development**: Design and implementation of AI workflows, hybrid agent-workflow systems
+- **Full-Stack Development**: Node.js, Express.js, Supabase, MongoDB, PostgreSQL, Pinecone
+- **Front-End Frameworks**: Vue.js
+- **Cloud Platforms & APIs**: AWS (S3, Rekognition), GCP, Azure, Exa AI API
+- **AI Services**: OpenAI SDK, Anthropic Claude
+- **DevOps & Deployment**: Docker, Netlify, Heroku, Vercel
+- **UI/UX Design**: TailwindCSS, Notion for planning, user-centric design principles
 
-Backend hosted on Heroku, frontend hosted on Netlify. <br>
+### Recent Work
 
-[CryptoAPI](https://cryptoapi.xyz) | [SOURCE CODE](https://github.com/danialhasan/CryptoAPI)<br>
-This is a small application I build to apply my knowledge of APIs. It retrieves real data from [this api](https://coinmarketcap.com/api) and displays it for the user. It is functional, but I plan to revamp it in the near future with more features and better styling.
-<br><br>
-_Technologies Used_
-- NodeJS
-- ExpressJS
-- [Coin Market Cap API](https://coinmarketcap.com/api)
-- TailwindCSS
+#### LegalFlow CRM (In Progress)
 
-Hosted on Heroku. <br>
+- **Description**: A CRM tool tailored for real estate professionals, enabling batch document uploads and automatic client profile creation with advanced data extraction and enrichment capabilities.
+- **Key Features**:
+  - AI-powered lead management and compliance checks.
+  - Seamless integration with Google Calendar for scheduling.
+  - RAG-powered data enrichment workflows.
+- **Technologies Used**: Supabase, OpenAI SDK, Pinecone, Node.js, Express.js
 
+#### Compliance Watch Agent (2025)
 
-[HWAY Global](https://hwayglobal.com/)<br>
-This is a static website I built for a clients business back when I was still learning web development for the first time.
-<br><br>
-_Technologies Used_
-- HTML
-- CSS
-- Javascript
-<br>
-Hosted on IONOS.
+- **Description**: An agent designed for real estate professionals to automate compliance checks for legal documents, ensuring adherence to Ontario regulations.
+- **Key Features**:
+  - Multi-tag document classification using vectorized chunk analysis.
+  - Real-time compliance reports with detailed citations.
+- **Technologies Used**: Exa AI API, Retrieval-Augmented Generation (RAG), TailwindCSS
 
+#### LegalFlow Extract (2024)
 
-[Crypto Address Tracer](https://github.com/danialhasan/crypto_address_tracer)<br>
-This web app uses the [Ethplorer API](https://ethplorer.io/) to look up any given address on the Ethereum network. It returns info such as balance, ENS id, hex address, and collection/token holdings. <br><br>
-_Technologies Used_
-- NodeJS
-- ExpressJS
-- [Ethplorer API](https://ethplorer.io/)
-- TailwindCSS
-<br>
-Hosted on Heroku.
-<hr>
+- **Description**: A feature for extracting and organizing client data from legal and real estate documents.
+- **Key Features**:
+  - Batch processing with parallel data extraction jobs.
+  - Structured outputs with confidence scores.
+- **Technologies Used**: Node.js, Supabase, Pinecone, AWS S3
+
+#### Legal Document Chat (2024)
+
+- **Description**: A real-time document analysis feature allowing users to query documents instantly, replacing delayed analysis workflows.
+- **Technologies Used**: Chunkr, Pinecone, OpenAI SDK
+
+---
+
+Got an idea? Reach out. Always down to build 😈🛠️
